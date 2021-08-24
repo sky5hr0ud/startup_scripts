@@ -1,0 +1,1 @@
+start /min <C:\Program Files\Corsair\CORSAIR iCUE 4 Software\iCUE.exe>
